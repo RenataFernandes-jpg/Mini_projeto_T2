@@ -90,8 +90,8 @@ A praça que concentra o maior faturamento é a Vale do Itajaí (PRC01), com R$ 
 
 As maiores taxas de itens vendidos por 1000 habitantes estão concentradas nas lojas pequenas:
 
-|Cod_loja  |itens por habitantes| entrega média|
-| ---: | ---: | ---: |
+|Cod_loja | Loja  |Itens por habitantes| Entrega média|
+| ---: | ---: | ---: | ---: |
 |LJ-012 | Rio dos Cedros            | 41,87 | 14,31 |
 |LJ-008 | Presidente Getúlio        | 34,84 | 14,26 |
 |LJ-011 | Ibirama                   |32,07  | 15,50 |
