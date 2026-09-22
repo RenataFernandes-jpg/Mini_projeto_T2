@@ -105,7 +105,7 @@ Os dados indicam que Rio dos Cedros apresenta uma demanda relativa elevada, mas 
 #### Diagrama estrela:
 
   <div>
-    <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cd7c2775-1f50-4f3b-9439-caa11266d6c3" />
+    <img width="1001" height="689" alt="Image" src="https://github.com/user-attachments/assets/f50d42a3-3864-4ed4-8746-410294f12070" />
   </div>
 
 
